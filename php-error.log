@@ -1,0 +1,1884 @@
+
+[08-Jun-2022 08:37:52 UTC] inicio de aplicacion web
+[08-Jun-2022 08:37:52 UTC] SessionController::validateSession()
+[08-Jun-2022 08:37:52 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:37:52 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:37:52 UTC] 2
+[08-Jun-2022 08:37:52 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:37:52 UTC] sessionController::isPublic(): currentURL => mascota?id=26
+[08-Jun-2022 08:37:52 UTC] 2
+[08-Jun-2022 08:37:52 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:37:52 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:37:52 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:37:53 UTC] mascotas controller
+[08-Jun-2022 08:37:53 UTC] carga de vista registro mascotas
+[08-Jun-2022 08:37:53 UTC] 
+[08-Jun-2022 08:37:53 UTC] miau
+[08-Jun-2022 08:37:57 UTC] inicio de aplicacion web
+[08-Jun-2022 08:37:57 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:37:57 UTC] renderizando 404
+[08-Jun-2022 08:39:23 UTC] inicio de aplicacion web
+[08-Jun-2022 08:39:23 UTC] SessionController::validateSession()
+[08-Jun-2022 08:39:23 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:39:23 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:39:23 UTC] 3
+[08-Jun-2022 08:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/mascota/update, url => mascota
+[08-Jun-2022 08:39:23 UTC] sessionController::isPublic(): currentURL => mascota
+[08-Jun-2022 08:39:23 UTC] 3
+[08-Jun-2022 08:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/mascota/update, url => mascota
+[08-Jun-2022 08:39:23 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:39:23 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:39:23 UTC] mascotas controller
+[08-Jun-2022 08:39:23 UTC] 26
+[08-Jun-2022 08:39:23 UTC] cambio nombre
+[08-Jun-2022 08:39:23 UTC] 
+[08-Jun-2022 08:39:23 UTC] PHP Notice:  Undefined index: foto in /storage/ssd3/195/18888195/public_html/controllers/mascota.php on line 62
+[08-Jun-2022 08:39:23 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /storage/ssd3/195/18888195/public_html/controllers/mascota.php on line 62
+[08-Jun-2022 08:39:23 UTC] inicio de aplicacion web
+[08-Jun-2022 08:39:23 UTC] 3
+[08-Jun-2022 08:39:23 UTC] 5
+[08-Jun-2022 08:39:23 UTC] SessionController::validateSession()
+[08-Jun-2022 08:39:23 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:39:23 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:39:23 UTC] 3
+[08-Jun-2022 08:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/mascota/update, url => mascota
+[08-Jun-2022 08:39:23 UTC] sessionController::isPublic(): currentURL => mascota
+[08-Jun-2022 08:39:23 UTC] 3
+[08-Jun-2022 08:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/mascota/update, url => mascota
+[08-Jun-2022 08:39:23 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:39:23 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:39:23 UTC] mascotas controller
+[08-Jun-2022 08:39:23 UTC] 26
+[08-Jun-2022 08:39:23 UTC] cambio nombre
+[08-Jun-2022 08:39:23 UTC] 
+[08-Jun-2022 08:39:23 UTC] PHP Notice:  Undefined index: foto in /storage/ssd3/195/18888195/public_html/controllers/mascota.php on line 62
+[08-Jun-2022 08:39:23 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /storage/ssd3/195/18888195/public_html/controllers/mascota.php on line 62
+[08-Jun-2022 08:39:23 UTC] 3
+[08-Jun-2022 08:39:23 UTC] 5
+[08-Jun-2022 08:39:23 UTC] inicio de aplicacion web
+[08-Jun-2022 08:39:23 UTC] SessionController::validateSession()
+[08-Jun-2022 08:39:23 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:39:23 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:39:23 UTC] 2
+[08-Jun-2022 08:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:39:23 UTC] sessionController::isPublic(): currentURL => mascota?id=26
+[08-Jun-2022 08:39:23 UTC] 2
+[08-Jun-2022 08:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:39:23 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:39:23 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:39:23 UTC] mascotas controller
+[08-Jun-2022 08:39:23 UTC] carga de vista registro mascotas
+[08-Jun-2022 08:39:23 UTC] 
+[08-Jun-2022 08:39:23 UTC] miau miau
+[08-Jun-2022 08:39:27 UTC] inicio de aplicacion web
+[08-Jun-2022 08:39:27 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:39:27 UTC] renderizando 404
+[08-Jun-2022 08:40:51 UTC] inicio de aplicacion web
+[08-Jun-2022 08:40:51 UTC] SessionController::validateSession()
+[08-Jun-2022 08:40:51 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:40:51 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:40:51 UTC] 2
+[08-Jun-2022 08:40:51 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:40:51 UTC] sessionController::isPublic(): currentURL => mascota?id=26
+[08-Jun-2022 08:40:51 UTC] 2
+[08-Jun-2022 08:40:51 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:40:51 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:40:51 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:40:51 UTC] mascotas controller
+[08-Jun-2022 08:40:51 UTC] carga de vista registro mascotas
+[08-Jun-2022 08:40:51 UTC] 
+[08-Jun-2022 08:40:51 UTC] miau miau
+[08-Jun-2022 08:40:54 UTC] inicio de aplicacion web
+[08-Jun-2022 08:40:54 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:40:54 UTC] renderizando 404
+[08-Jun-2022 08:41:57 UTC] inicio de aplicacion web
+[08-Jun-2022 08:41:57 UTC] SessionController::validateSession()
+[08-Jun-2022 08:41:57 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:41:57 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:41:57 UTC] 2
+[08-Jun-2022 08:41:57 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:41:57 UTC] sessionController::isPublic(): currentURL => mascota?id=26
+[08-Jun-2022 08:41:57 UTC] 2
+[08-Jun-2022 08:41:57 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:41:57 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:41:57 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:41:57 UTC] mascotas controller
+[08-Jun-2022 08:41:57 UTC] carga de vista registro mascotas
+[08-Jun-2022 08:41:57 UTC] 
+[08-Jun-2022 08:41:57 UTC] miau miau
+[08-Jun-2022 08:42:01 UTC] inicio de aplicacion web
+[08-Jun-2022 08:42:01 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:42:01 UTC] renderizando 404
+[08-Jun-2022 08:42:43 UTC] inicio de aplicacion web
+[08-Jun-2022 08:42:43 UTC] SessionController::validateSession()
+[08-Jun-2022 08:42:43 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:42:43 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:42:43 UTC] 2
+[08-Jun-2022 08:42:43 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:42:43 UTC] sessionController::isPublic(): currentURL => mascota?id=26
+[08-Jun-2022 08:42:43 UTC] 2
+[08-Jun-2022 08:42:43 UTC] sessionController::getCurrentPage(): actualLink =>/mascota?id=26, url => mascota?id=26
+[08-Jun-2022 08:42:43 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:42:43 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:42:43 UTC] mascotas controller
+[08-Jun-2022 08:42:43 UTC] carga de vista registro mascotas
+[08-Jun-2022 08:42:43 UTC] 
+[08-Jun-2022 08:42:43 UTC] miau miau
+[08-Jun-2022 08:42:47 UTC] inicio de aplicacion web
+[08-Jun-2022 08:42:47 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:42:47 UTC] renderizando 404
+[08-Jun-2022 08:43:12 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:12 UTC] SessionController::validateSession()
+[08-Jun-2022 08:43:12 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:43:12 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:43:12 UTC] 2
+[08-Jun-2022 08:43:12 UTC] sessionController::getCurrentPage(): actualLink =>/home, url => home
+[08-Jun-2022 08:43:12 UTC] sessionController::isPublic(): currentURL => home
+[08-Jun-2022 08:43:12 UTC] 2
+[08-Jun-2022 08:43:12 UTC] sessionController::getCurrentPage(): actualLink =>/home, url => home
+[08-Jun-2022 08:43:12 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:43:12 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:43:12 UTC] juan david
+[08-Jun-2022 08:43:12 UTC] home::contruc, entro al controlador
+[08-Jun-2022 08:43:12 UTC] carga index de home
+[08-Jun-2022 08:43:15 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:15 UTC] SessionController::validateSession()
+[08-Jun-2022 08:43:15 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:43:15 UTC] sessionController::validateSession(): username:juan david - role: user
+[08-Jun-2022 08:43:15 UTC] 3
+[08-Jun-2022 08:43:15 UTC] sessionController::getCurrentPage(): actualLink =>/home/salir, url => home
+[08-Jun-2022 08:43:15 UTC] sessionController::isPublic(): currentURL => home
+[08-Jun-2022 08:43:15 UTC] 3
+[08-Jun-2022 08:43:15 UTC] sessionController::getCurrentPage(): actualLink =>/home/salir, url => home
+[08-Jun-2022 08:43:15 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:43:15 UTC] sessionController::getUserSessionData(): juan david
+[08-Jun-2022 08:43:15 UTC] juan david
+[08-Jun-2022 08:43:15 UTC] home::contruc, entro al controlador
+[08-Jun-2022 08:43:15 UTC] 3
+[08-Jun-2022 08:43:15 UTC] 5
+[08-Jun-2022 08:43:16 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:16 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 08:43:16 UTC] SessionController::validateSession()
+[08-Jun-2022 08:43:16 UTC] 2
+[08-Jun-2022 08:43:16 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 08:43:16 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 08:43:16 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:43:16 UTC] login::contruc, entro al controlador
+[08-Jun-2022 08:43:16 UTC] carga index de login
+[08-Jun-2022 08:43:16 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:16 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:43:16 UTC] renderizando 404
+[08-Jun-2022 08:43:18 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:18 UTC] SessionController::validateSession()
+[08-Jun-2022 08:43:18 UTC] 3
+[08-Jun-2022 08:43:18 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 08:43:18 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 08:43:18 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 08:43:18 UTC] login::contruc, entro al controlador
+[08-Jun-2022 08:43:18 UTC] juan21@hotmail.com
+[08-Jun-2022 08:43:18 UTC] 123
+[08-Jun-2022 08:43:18 UTC] $2y$10$GLslnenbzgSwcLl/gZmx3.y8NIqh7//Miss1oO6E4/xLFSUdIgtxS
+[08-Jun-2022 08:43:18 UTC] 123
+[08-Jun-2022 08:43:18 UTC] loginmodel::login->succes
+[08-Jun-2022 08:43:18 UTC] sessionController::initialize(): user: juan21@hotmail.com
+[08-Jun-2022 08:43:18 UTC] sessionController::authorizeAccess(): role: admin
+[08-Jun-2022 08:43:18 UTC] PHP Notice:  Undefined index: admin in /storage/ssd3/195/18888195/public_html/clases/sessionController.php on line 186
+[08-Jun-2022 08:43:18 UTC] 3
+[08-Jun-2022 08:43:18 UTC] 5
+[08-Jun-2022 08:43:18 UTC] 3
+[08-Jun-2022 08:43:18 UTC] 5
+[08-Jun-2022 08:43:18 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:18 UTC] SessionController::validateSession()
+[08-Jun-2022 08:43:18 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 08:43:18 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 08:43:18 UTC] 2
+[08-Jun-2022 08:43:18 UTC] sessionController::getCurrentPage(): actualLink =>/home?succes=8281e04ed52ccfc13820d0f6acb0985a, url => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 08:43:18 UTC] sessionController::isPublic(): currentURL => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 08:43:18 UTC] 2
+[08-Jun-2022 08:43:18 UTC] sessionController::getCurrentPage(): actualLink =>/home?succes=8281e04ed52ccfc13820d0f6acb0985a, url => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 08:43:18 UTC] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[08-Jun-2022 08:43:18 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 08:43:18 UTC] admin
+[08-Jun-2022 08:43:18 UTC] home::contruc, entro al controlador
+[08-Jun-2022 08:43:18 UTC] carga index de home
+[08-Jun-2022 08:43:18 UTC] View::handleError() existsKey =>1
+[08-Jun-2022 08:43:18 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:18 UTC] SessionController::validateSession()
+[08-Jun-2022 08:43:18 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 08:43:18 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 08:43:18 UTC] 2
+[08-Jun-2022 08:43:18 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 08:43:18 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 08:43:18 UTC] 2
+[08-Jun-2022 08:43:18 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 08:43:18 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:43:18 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 08:43:18 UTC] admin
+[08-Jun-2022 08:43:18 UTC] home::contruc, entro al controlador
+[08-Jun-2022 08:43:18 UTC] carga index de admin
+[08-Jun-2022 08:43:18 UTC] admin
+[08-Jun-2022 08:43:19 UTC] inicio de aplicacion web
+[08-Jun-2022 08:43:19 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:43:19 UTC] renderizando 404
+[08-Jun-2022 08:53:34 UTC] inicio de aplicacion web
+[08-Jun-2022 08:53:34 UTC] SessionController::validateSession()
+[08-Jun-2022 08:53:34 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 08:53:34 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 08:53:34 UTC] 3
+[08-Jun-2022 08:53:34 UTC] sessionController::getCurrentPage(): actualLink =>/admin/salir, url => admin
+[08-Jun-2022 08:53:34 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 08:53:34 UTC] 3
+[08-Jun-2022 08:53:34 UTC] sessionController::getCurrentPage(): actualLink =>/admin/salir, url => admin
+[08-Jun-2022 08:53:34 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 08:53:34 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 08:53:34 UTC] admin
+[08-Jun-2022 08:53:34 UTC] home::contruc, entro al controlador
+[08-Jun-2022 08:53:34 UTC] 3
+[08-Jun-2022 08:53:34 UTC] 5
+[08-Jun-2022 08:53:34 UTC] inicio de aplicacion web
+[08-Jun-2022 08:53:34 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 08:53:34 UTC] SessionController::validateSession()
+[08-Jun-2022 08:53:34 UTC] 2
+[08-Jun-2022 08:53:34 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 08:53:34 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 08:53:34 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:53:34 UTC] login::contruc, entro al controlador
+[08-Jun-2022 08:53:34 UTC] carga index de login
+[08-Jun-2022 08:53:35 UTC] inicio de aplicacion web
+[08-Jun-2022 08:53:35 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:53:35 UTC] renderizando 404
+[08-Jun-2022 08:53:37 UTC] inicio de aplicacion web
+[08-Jun-2022 08:53:37 UTC] registro controller
+[08-Jun-2022 08:53:37 UTC] SessionController::validateSession()
+[08-Jun-2022 08:53:37 UTC] 2
+[08-Jun-2022 08:53:37 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 08:53:37 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 08:53:37 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:53:37 UTC] carga de vista registro
+[08-Jun-2022 08:53:37 UTC] inicio de aplicacion web
+[08-Jun-2022 08:53:37 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:53:37 UTC] renderizando 404
+[08-Jun-2022 08:54:01 UTC] inicio de aplicacion web
+[08-Jun-2022 08:54:01 UTC] registro controller
+[08-Jun-2022 08:54:01 UTC] SessionController::validateSession()
+[08-Jun-2022 08:54:01 UTC] 3
+[08-Jun-2022 08:54:01 UTC] sessionController::getCurrentPage(): actualLink =>/registro/newUser, url => registro
+[08-Jun-2022 08:54:01 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 08:54:01 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:54:01 UTC] 1
+[08-Jun-2022 08:54:01 UTC] iuiu
+[08-Jun-2022 08:54:01 UTC] $2y$10$wVZje0wDbtzqP6v4PbxfievGbHbFn8L5CBbw4gxoebqqocBNmQbBi
+[08-Jun-2022 08:54:01 UTC] juan21@hotmail.com
+[08-Jun-2022 08:54:01 UTC] PHP Notice:  Undefined index: email in /storage/ssd3/195/18888195/public_html/libs/controller.php on line 55
+[08-Jun-2022 08:54:01 UTC] PHP Warning:  fopen(): Filename cannot be empty in /storage/ssd3/195/18888195/public_html/controllers/registro.php on line 55
+[08-Jun-2022 08:54:01 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /storage/ssd3/195/18888195/public_html/controllers/registro.php on line 56
+[08-Jun-2022 08:54:01 UTC] juan21@hotmail.com
+[08-Jun-2022 08:54:01 UTC] 3
+[08-Jun-2022 08:54:01 UTC] 5
+[08-Jun-2022 08:54:01 UTC] inicio de aplicacion web
+[08-Jun-2022 08:54:01 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:54:01 UTC] renderizando 404
+[08-Jun-2022 08:54:01 UTC] View::handleError() existsKey =>1
+[08-Jun-2022 08:54:01 UTC] inicio de aplicacion web
+[08-Jun-2022 08:54:01 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:54:01 UTC] renderizando 404
+[08-Jun-2022 08:56:35 UTC] inicio de aplicacion web
+[08-Jun-2022 08:56:35 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 08:56:35 UTC] SessionController::validateSession()
+[08-Jun-2022 08:56:35 UTC] 2
+[08-Jun-2022 08:56:35 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 08:56:35 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 08:56:35 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:56:35 UTC] login::contruc, entro al controlador
+[08-Jun-2022 08:56:35 UTC] carga index de login
+[08-Jun-2022 08:56:35 UTC] inicio de aplicacion web
+[08-Jun-2022 08:56:35 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:56:35 UTC] renderizando 404
+[08-Jun-2022 08:56:36 UTC] inicio de aplicacion web
+[08-Jun-2022 08:56:36 UTC] registro controller
+[08-Jun-2022 08:56:36 UTC] SessionController::validateSession()
+[08-Jun-2022 08:56:36 UTC] 2
+[08-Jun-2022 08:56:36 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 08:56:36 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 08:56:36 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:56:36 UTC] carga de vista registro
+[08-Jun-2022 08:56:37 UTC] inicio de aplicacion web
+[08-Jun-2022 08:56:37 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:56:37 UTC] renderizando 404
+[08-Jun-2022 08:56:59 UTC] inicio de aplicacion web
+[08-Jun-2022 08:56:59 UTC] registro controller
+[08-Jun-2022 08:56:59 UTC] SessionController::validateSession()
+[08-Jun-2022 08:56:59 UTC] 3
+[08-Jun-2022 08:56:59 UTC] sessionController::getCurrentPage(): actualLink =>/registro/newUser, url => registro
+[08-Jun-2022 08:56:59 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 08:56:59 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:56:59 UTC] 1
+[08-Jun-2022 08:56:59 UTC] juan david
+[08-Jun-2022 08:56:59 UTC] $2y$10$AMGsvSzWk5mNKePmoVzOh.GKpdWt0tbtXmlkj4d7z8f8GF1wlfgr.
+[08-Jun-2022 08:56:59 UTC] juan21@hotmail.com
+[08-Jun-2022 08:56:59 UTC] 2
+[08-Jun-2022 08:56:59 UTC] 3
+[08-Jun-2022 08:56:59 UTC] 5
+[08-Jun-2022 08:57:00 UTC] inicio de aplicacion web
+[08-Jun-2022 08:57:00 UTC] registro controller
+[08-Jun-2022 08:57:00 UTC] SessionController::validateSession()
+[08-Jun-2022 08:57:00 UTC] 2
+[08-Jun-2022 08:57:00 UTC] sessionController::getCurrentPage(): actualLink =>/registro?error=a74accfd26e06d012266810952678cf3, url => registro?error=a74accfd26e06d012266810952678cf3
+[08-Jun-2022 08:57:00 UTC] sessionController::isPublic(): currentURL => registro?error=a74accfd26e06d012266810952678cf3
+[08-Jun-2022 08:57:00 UTC] SessionController::validateSession() public page
+[08-Jun-2022 08:57:00 UTC] carga de vista registro
+[08-Jun-2022 08:57:00 UTC] View::handleError() existsKey =>El correo que proporciono ya existe, selecciona otro
+[08-Jun-2022 08:57:00 UTC] inicio de aplicacion web
+[08-Jun-2022 08:57:00 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 08:57:00 UTC] renderizando 404
+[08-Jun-2022 09:09:25 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:25 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:09:25 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:25 UTC] 2
+[08-Jun-2022 09:09:25 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:09:25 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:09:25 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:09:25 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:25 UTC] carga index de login
+[08-Jun-2022 09:09:25 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:25 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:09:25 UTC] renderizando 404
+[08-Jun-2022 09:09:27 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:27 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:27 UTC] 3
+[08-Jun-2022 09:09:27 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:09:27 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:09:27 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:27 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:27 UTC] juan21@hotmail.com
+[08-Jun-2022 09:09:27 UTC] 123
+[08-Jun-2022 09:09:27 UTC] 3
+[08-Jun-2022 09:09:27 UTC] 5
+[08-Jun-2022 09:09:27 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:27 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:27 UTC] 2
+[08-Jun-2022 09:09:27 UTC] sessionController::getCurrentPage(): actualLink =>/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:27 UTC] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:27 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:27 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:27 UTC] carga index de login
+[08-Jun-2022 09:09:27 UTC] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[08-Jun-2022 09:09:27 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:27 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:09:27 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:27 UTC] 2
+[08-Jun-2022 09:09:27 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:09:27 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:09:27 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:09:27 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:27 UTC] carga index de login
+[08-Jun-2022 09:09:27 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:27 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:09:27 UTC] renderizando 404
+[08-Jun-2022 09:09:29 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:29 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:29 UTC] 3
+[08-Jun-2022 09:09:29 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:09:29 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:09:29 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:29 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:29 UTC] juan21@hotmail.com
+[08-Jun-2022 09:09:29 UTC] 123
+[08-Jun-2022 09:09:29 UTC] 3
+[08-Jun-2022 09:09:29 UTC] 5
+[08-Jun-2022 09:09:29 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:29 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:29 UTC] 2
+[08-Jun-2022 09:09:29 UTC] sessionController::getCurrentPage(): actualLink =>/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:29 UTC] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:29 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:29 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:29 UTC] carga index de login
+[08-Jun-2022 09:09:29 UTC] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[08-Jun-2022 09:09:29 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:29 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:09:29 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:29 UTC] 2
+[08-Jun-2022 09:09:29 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:09:29 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:09:29 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:09:29 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:29 UTC] carga index de login
+[08-Jun-2022 09:09:29 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:29 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:09:29 UTC] renderizando 404
+[08-Jun-2022 09:09:44 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:44 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:44 UTC] 3
+[08-Jun-2022 09:09:44 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:09:44 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:09:44 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:44 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:44 UTC] juan21@hotmail.com
+[08-Jun-2022 09:09:44 UTC] 123
+[08-Jun-2022 09:09:44 UTC] 3
+[08-Jun-2022 09:09:44 UTC] 5
+[08-Jun-2022 09:09:44 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:44 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:44 UTC] 2
+[08-Jun-2022 09:09:44 UTC] sessionController::getCurrentPage(): actualLink =>/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:44 UTC] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:44 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:44 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:44 UTC] carga index de login
+[08-Jun-2022 09:09:44 UTC] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[08-Jun-2022 09:09:45 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:45 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:09:45 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:45 UTC] 2
+[08-Jun-2022 09:09:45 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:09:45 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:09:45 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:09:45 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:45 UTC] carga index de login
+[08-Jun-2022 09:09:45 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:45 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:09:45 UTC] renderizando 404
+[08-Jun-2022 09:09:54 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:54 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:54 UTC] 3
+[08-Jun-2022 09:09:54 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:09:54 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:09:54 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:54 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:54 UTC] juan21@hotmail.com
+[08-Jun-2022 09:09:54 UTC] 123
+[08-Jun-2022 09:09:54 UTC] 3
+[08-Jun-2022 09:09:54 UTC] 5
+[08-Jun-2022 09:09:54 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:54 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:54 UTC] 2
+[08-Jun-2022 09:09:54 UTC] sessionController::getCurrentPage(): actualLink =>/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:54 UTC] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:09:54 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:09:54 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:54 UTC] carga index de login
+[08-Jun-2022 09:09:54 UTC] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[08-Jun-2022 09:09:54 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:54 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:09:54 UTC] SessionController::validateSession()
+[08-Jun-2022 09:09:54 UTC] 2
+[08-Jun-2022 09:09:54 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:09:54 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:09:54 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:09:54 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:09:54 UTC] carga index de login
+[08-Jun-2022 09:09:55 UTC] inicio de aplicacion web
+[08-Jun-2022 09:09:55 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:09:55 UTC] renderizando 404
+[08-Jun-2022 09:11:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:20 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:20 UTC] 3
+[08-Jun-2022 09:11:20 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:11:20 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:11:20 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:11:20 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:11:20 UTC] juan21@hotmail.com
+[08-Jun-2022 09:11:20 UTC] 123
+[08-Jun-2022 09:11:20 UTC] 3
+[08-Jun-2022 09:11:20 UTC] 5
+[08-Jun-2022 09:11:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:20 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:20 UTC] 2
+[08-Jun-2022 09:11:20 UTC] sessionController::getCurrentPage(): actualLink =>/login?error=bcbe63ed8464684af6945ad8a89f76f8, url => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:11:20 UTC] sessionController::isPublic(): currentURL => login?error=bcbe63ed8464684af6945ad8a89f76f8
+[08-Jun-2022 09:11:20 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:11:20 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:11:20 UTC] carga index de login
+[08-Jun-2022 09:11:20 UTC] View::handleError() existsKey =>Nombre de usuario y/o password incorrectos
+[08-Jun-2022 09:11:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:20 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:11:20 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:20 UTC] 2
+[08-Jun-2022 09:11:20 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:11:20 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:11:20 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:11:20 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:11:20 UTC] carga index de login
+[08-Jun-2022 09:11:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:20 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:11:20 UTC] renderizando 404
+[08-Jun-2022 09:11:22 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:22 UTC] registro controller
+[08-Jun-2022 09:11:22 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:22 UTC] 2
+[08-Jun-2022 09:11:22 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 09:11:22 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 09:11:22 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:11:22 UTC] carga de vista registro
+[08-Jun-2022 09:11:22 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:22 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:11:22 UTC] renderizando 404
+[08-Jun-2022 09:11:51 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:51 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:11:51 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:51 UTC] 2
+[08-Jun-2022 09:11:51 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:11:51 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:11:51 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:11:51 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:11:51 UTC] carga index de login
+[08-Jun-2022 09:11:51 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:51 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:11:51 UTC] renderizando 404
+[08-Jun-2022 09:11:53 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:53 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:53 UTC] 3
+[08-Jun-2022 09:11:53 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:11:53 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:11:53 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:11:53 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:11:53 UTC] juan21@hotmail.com
+[08-Jun-2022 09:11:53 UTC] 123
+[08-Jun-2022 09:11:53 UTC] $2y$10$GLslnenbzgSwcLl/gZmx3.y8NIqh7//Miss1oO6E4/xLFSUdIgtxS
+[08-Jun-2022 09:11:53 UTC] 123
+[08-Jun-2022 09:11:53 UTC] loginmodel::login->succes
+[08-Jun-2022 09:11:53 UTC] sessionController::initialize(): user: juan21@hotmail.com
+[08-Jun-2022 09:11:53 UTC] sessionController::authorizeAccess(): role: admin
+[08-Jun-2022 09:11:53 UTC] PHP Notice:  Undefined index: admin in /storage/ssd3/195/18888195/public_html/clases/sessionController.php on line 186
+[08-Jun-2022 09:11:53 UTC] 3
+[08-Jun-2022 09:11:53 UTC] 5
+[08-Jun-2022 09:11:53 UTC] 3
+[08-Jun-2022 09:11:53 UTC] 5
+[08-Jun-2022 09:11:53 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:53 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:53 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:11:53 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:11:53 UTC] 2
+[08-Jun-2022 09:11:53 UTC] sessionController::getCurrentPage(): actualLink =>/home?succes=8281e04ed52ccfc13820d0f6acb0985a, url => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 09:11:53 UTC] sessionController::isPublic(): currentURL => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 09:11:53 UTC] 2
+[08-Jun-2022 09:11:53 UTC] sessionController::getCurrentPage(): actualLink =>/home?succes=8281e04ed52ccfc13820d0f6acb0985a, url => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 09:11:53 UTC] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[08-Jun-2022 09:11:53 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:11:53 UTC] admin
+[08-Jun-2022 09:11:53 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:11:53 UTC] carga index de home
+[08-Jun-2022 09:11:53 UTC] View::handleError() existsKey =>1
+[08-Jun-2022 09:11:53 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:53 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:53 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:11:53 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:11:53 UTC] 2
+[08-Jun-2022 09:11:53 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 09:11:53 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 09:11:53 UTC] 2
+[08-Jun-2022 09:11:53 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 09:11:53 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:11:53 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:11:53 UTC] admin
+[08-Jun-2022 09:11:53 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:11:53 UTC] carga index de admin
+[08-Jun-2022 09:11:53 UTC] admin
+[08-Jun-2022 09:11:54 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:54 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:11:54 UTC] renderizando 404
+[08-Jun-2022 09:11:56 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:56 UTC] SessionController::validateSession()
+[08-Jun-2022 09:11:56 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:11:56 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:11:56 UTC] 2
+[08-Jun-2022 09:11:56 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:11:56 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:11:56 UTC] 2
+[08-Jun-2022 09:11:56 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:11:56 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:11:56 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:11:56 UTC] admin
+[08-Jun-2022 09:11:56 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:11:56 UTC] carga index de adminmascota
+[08-Jun-2022 09:11:57 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:57 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:11:57 UTC] renderizando 404
+[08-Jun-2022 09:11:57 UTC] inicio de aplicacion web
+[08-Jun-2022 09:11:57 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:11:57 UTC] renderizando 404
+[08-Jun-2022 09:12:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:20 UTC] SessionController::validateSession()
+[08-Jun-2022 09:12:20 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:12:20 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:12:20 UTC] 3
+[08-Jun-2022 09:12:20 UTC] sessionController::getCurrentPage(): actualLink =>/admin/salir, url => admin
+[08-Jun-2022 09:12:20 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 09:12:20 UTC] 3
+[08-Jun-2022 09:12:20 UTC] sessionController::getCurrentPage(): actualLink =>/admin/salir, url => admin
+[08-Jun-2022 09:12:20 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:12:20 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:12:20 UTC] admin
+[08-Jun-2022 09:12:20 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:12:20 UTC] 3
+[08-Jun-2022 09:12:20 UTC] 5
+[08-Jun-2022 09:12:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:20 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:12:20 UTC] SessionController::validateSession()
+[08-Jun-2022 09:12:20 UTC] 2
+[08-Jun-2022 09:12:20 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:12:20 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:12:20 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:12:20 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:12:20 UTC] carga index de login
+[08-Jun-2022 09:12:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:20 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:12:20 UTC] renderizando 404
+[08-Jun-2022 09:12:22 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:22 UTC] registro controller
+[08-Jun-2022 09:12:22 UTC] SessionController::validateSession()
+[08-Jun-2022 09:12:22 UTC] 2
+[08-Jun-2022 09:12:22 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 09:12:22 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 09:12:22 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:12:22 UTC] carga de vista registro
+[08-Jun-2022 09:12:22 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:22 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:12:22 UTC] renderizando 404
+[08-Jun-2022 09:12:36 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:36 UTC] registro controller
+[08-Jun-2022 09:12:36 UTC] SessionController::validateSession()
+[08-Jun-2022 09:12:36 UTC] 3
+[08-Jun-2022 09:12:36 UTC] sessionController::getCurrentPage(): actualLink =>/registro/newUser, url => registro
+[08-Jun-2022 09:12:36 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 09:12:36 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:12:36 UTC] 1
+[08-Jun-2022 09:12:36 UTC] juan david
+[08-Jun-2022 09:12:36 UTC] $2y$10$fY4JCP60mLg6a.Atn2BQp.cMQ8GsjHBc1c9.q2QKXkVF/tASv5Z9y
+[08-Jun-2022 09:12:36 UTC] juan21@hotmail.com
+[08-Jun-2022 09:12:36 UTC] 2
+[08-Jun-2022 09:12:36 UTC] 3
+[08-Jun-2022 09:12:36 UTC] 5
+[08-Jun-2022 09:12:36 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:36 UTC] registro controller
+[08-Jun-2022 09:12:36 UTC] SessionController::validateSession()
+[08-Jun-2022 09:12:36 UTC] 2
+[08-Jun-2022 09:12:36 UTC] sessionController::getCurrentPage(): actualLink =>/registro?error=a74accfd26e06d012266810952678cf3, url => registro?error=a74accfd26e06d012266810952678cf3
+[08-Jun-2022 09:12:36 UTC] sessionController::isPublic(): currentURL => registro?error=a74accfd26e06d012266810952678cf3
+[08-Jun-2022 09:12:36 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:12:36 UTC] carga de vista registro
+[08-Jun-2022 09:12:36 UTC] View::handleError() existsKey =>El correo que proporciono ya existe, selecciona otro
+[08-Jun-2022 09:12:37 UTC] inicio de aplicacion web
+[08-Jun-2022 09:12:37 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:12:37 UTC] renderizando 404
+[08-Jun-2022 09:13:02 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:02 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 09:13:02 UTC] SessionController::validateSession()
+[08-Jun-2022 09:13:02 UTC] 2
+[08-Jun-2022 09:13:02 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 09:13:02 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 09:13:02 UTC] SessionController::validateSession() public page
+[08-Jun-2022 09:13:02 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:13:02 UTC] carga index de login
+[08-Jun-2022 09:13:02 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:02 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:13:02 UTC] renderizando 404
+[08-Jun-2022 09:13:04 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:04 UTC] SessionController::validateSession()
+[08-Jun-2022 09:13:04 UTC] 3
+[08-Jun-2022 09:13:04 UTC] sessionController::getCurrentPage(): actualLink =>/login/aut, url => login
+[08-Jun-2022 09:13:04 UTC] sessionController::isPublic(): currentURL => login
+[08-Jun-2022 09:13:04 UTC] SessionController::validateSession() redirect al login
+[08-Jun-2022 09:13:04 UTC] login::contruc, entro al controlador
+[08-Jun-2022 09:13:04 UTC] juan21@hotmail.com
+[08-Jun-2022 09:13:04 UTC] 123
+[08-Jun-2022 09:13:04 UTC] $2y$10$GLslnenbzgSwcLl/gZmx3.y8NIqh7//Miss1oO6E4/xLFSUdIgtxS
+[08-Jun-2022 09:13:04 UTC] 123
+[08-Jun-2022 09:13:04 UTC] loginmodel::login->succes
+[08-Jun-2022 09:13:04 UTC] sessionController::initialize(): user: juan21@hotmail.com
+[08-Jun-2022 09:13:04 UTC] sessionController::authorizeAccess(): role: admin
+[08-Jun-2022 09:13:04 UTC] PHP Notice:  Undefined index: admin in /storage/ssd3/195/18888195/public_html/clases/sessionController.php on line 186
+[08-Jun-2022 09:13:04 UTC] 3
+[08-Jun-2022 09:13:04 UTC] 5
+[08-Jun-2022 09:13:04 UTC] 3
+[08-Jun-2022 09:13:04 UTC] 5
+[08-Jun-2022 09:13:04 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:04 UTC] SessionController::validateSession()
+[08-Jun-2022 09:13:04 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:13:04 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:13:04 UTC] 2
+[08-Jun-2022 09:13:04 UTC] sessionController::getCurrentPage(): actualLink =>/home?succes=8281e04ed52ccfc13820d0f6acb0985a, url => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 09:13:04 UTC] sessionController::isPublic(): currentURL => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 09:13:04 UTC] 2
+[08-Jun-2022 09:13:04 UTC] sessionController::getCurrentPage(): actualLink =>/home?succes=8281e04ed52ccfc13820d0f6acb0985a, url => home?succes=8281e04ed52ccfc13820d0f6acb0985a
+[08-Jun-2022 09:13:04 UTC] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[08-Jun-2022 09:13:04 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:13:04 UTC] admin
+[08-Jun-2022 09:13:04 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:13:04 UTC] carga index de home
+[08-Jun-2022 09:13:04 UTC] View::handleError() existsKey =>1
+[08-Jun-2022 09:13:04 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:04 UTC] SessionController::validateSession()
+[08-Jun-2022 09:13:04 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:13:04 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:13:04 UTC] 2
+[08-Jun-2022 09:13:04 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 09:13:04 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 09:13:04 UTC] 2
+[08-Jun-2022 09:13:04 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 09:13:04 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:13:04 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:13:04 UTC] admin
+[08-Jun-2022 09:13:04 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:13:04 UTC] carga index de admin
+[08-Jun-2022 09:13:04 UTC] admin
+[08-Jun-2022 09:13:04 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:04 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:13:04 UTC] renderizando 404
+[08-Jun-2022 09:13:08 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:08 UTC] SessionController::validateSession()
+[08-Jun-2022 09:13:08 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:13:08 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:13:08 UTC] 2
+[08-Jun-2022 09:13:08 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:13:08 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:13:08 UTC] 2
+[08-Jun-2022 09:13:08 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:13:08 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:13:08 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:13:08 UTC] admin
+[08-Jun-2022 09:13:08 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:13:08 UTC] carga index de adminmascota
+[08-Jun-2022 09:13:08 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:08 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:13:08 UTC] renderizando 404
+[08-Jun-2022 09:13:08 UTC] inicio de aplicacion web
+[08-Jun-2022 09:13:08 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:13:08 UTC] renderizando 404
+[08-Jun-2022 09:14:34 UTC] inicio de aplicacion web
+[08-Jun-2022 09:14:34 UTC] SessionController::validateSession()
+[08-Jun-2022 09:14:34 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:14:34 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:14:34 UTC] 2
+[08-Jun-2022 09:14:34 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:14:34 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:14:34 UTC] 2
+[08-Jun-2022 09:14:34 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:14:34 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:14:34 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:14:34 UTC] admin
+[08-Jun-2022 09:14:34 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:14:34 UTC] carga index de adminmascota
+[08-Jun-2022 09:14:34 UTC] inicio de aplicacion web
+[08-Jun-2022 09:14:34 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:14:34 UTC] renderizando 404
+[08-Jun-2022 09:14:34 UTC] inicio de aplicacion web
+[08-Jun-2022 09:14:34 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:14:34 UTC] renderizando 404
+[08-Jun-2022 09:14:35 UTC] inicio de aplicacion web
+[08-Jun-2022 09:14:35 UTC] SessionController::validateSession()
+[08-Jun-2022 09:14:35 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:14:35 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:14:35 UTC] 2
+[08-Jun-2022 09:14:35 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:14:35 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:14:35 UTC] 2
+[08-Jun-2022 09:14:35 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:14:35 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:14:35 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:14:35 UTC] admin
+[08-Jun-2022 09:14:35 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:14:35 UTC] carga index de adminmascota
+[08-Jun-2022 09:14:35 UTC] inicio de aplicacion web
+[08-Jun-2022 09:14:35 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:14:35 UTC] renderizando 404
+[08-Jun-2022 09:14:36 UTC] inicio de aplicacion web
+[08-Jun-2022 09:14:36 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:14:36 UTC] renderizando 404
+[08-Jun-2022 09:15:21 UTC] inicio de aplicacion web
+[08-Jun-2022 09:15:21 UTC] SessionController::validateSession()
+[08-Jun-2022 09:15:21 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:15:21 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:15:21 UTC] 2
+[08-Jun-2022 09:15:21 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:15:21 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:15:21 UTC] 2
+[08-Jun-2022 09:15:21 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:15:21 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:15:21 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:15:21 UTC] admin
+[08-Jun-2022 09:15:21 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:15:21 UTC] carga index de adminmascota
+[08-Jun-2022 09:15:21 UTC] inicio de aplicacion web
+[08-Jun-2022 09:15:21 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:15:21 UTC] renderizando 404
+[08-Jun-2022 09:15:21 UTC] inicio de aplicacion web
+[08-Jun-2022 09:15:21 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:15:21 UTC] renderizando 404
+[08-Jun-2022 09:16:37 UTC] inicio de aplicacion web
+[08-Jun-2022 09:16:37 UTC] SessionController::validateSession()
+[08-Jun-2022 09:16:37 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:16:37 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:16:37 UTC] 2
+[08-Jun-2022 09:16:37 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:16:37 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:16:37 UTC] 2
+[08-Jun-2022 09:16:37 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:16:37 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:16:37 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:16:37 UTC] admin
+[08-Jun-2022 09:16:37 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:16:37 UTC] carga index de adminmascota
+[08-Jun-2022 09:16:37 UTC] inicio de aplicacion web
+[08-Jun-2022 09:16:37 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:16:37 UTC] renderizando 404
+[08-Jun-2022 09:16:37 UTC] inicio de aplicacion web
+[08-Jun-2022 09:16:37 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:16:37 UTC] renderizando 404
+[08-Jun-2022 09:19:56 UTC] inicio de aplicacion web
+[08-Jun-2022 09:19:56 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:19:56 UTC] renderizando 404
+[08-Jun-2022 09:22:14 UTC] inicio de aplicacion web
+[08-Jun-2022 09:22:14 UTC] SessionController::validateSession()
+[08-Jun-2022 09:22:14 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:22:14 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:22:14 UTC] 2
+[08-Jun-2022 09:22:14 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:22:14 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:22:14 UTC] 2
+[08-Jun-2022 09:22:14 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:22:14 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:22:14 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:22:14 UTC] admin
+[08-Jun-2022 09:22:14 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:22:14 UTC] carga index de adminmascota
+[08-Jun-2022 09:22:15 UTC] inicio de aplicacion web
+[08-Jun-2022 09:22:15 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:22:15 UTC] renderizando 404
+[08-Jun-2022 09:22:21 UTC] inicio de aplicacion web
+[08-Jun-2022 09:22:21 UTC] PHP Fatal error:  Uncaught Error: Class 'adminpetedit' not found in /storage/ssd3/195/18888195/public_html/libs/app.php:36
+Stack trace:
+#0 /storage/ssd3/195/18888195/public_html/index.php(22): App->__construct()
+#1 {main}
+  thrown in /storage/ssd3/195/18888195/public_html/libs/app.php on line 36
+[08-Jun-2022 09:23:13 UTC] inicio de aplicacion web
+[08-Jun-2022 09:23:13 UTC] SessionController::validateSession()
+[08-Jun-2022 09:23:13 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:23:13 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:23:13 UTC] 2
+[08-Jun-2022 09:23:13 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:23:13 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:23:13 UTC] 2
+[08-Jun-2022 09:23:13 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:23:13 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:23:13 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:23:13 UTC] mascotas controller
+[08-Jun-2022 09:23:13 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:23:13 UTC] PHP Warning:  require(views/admin/editpetmascota.php): failed to open stream: No such file or directory in /storage/ssd3/195/18888195/public_html/libs/view.php on line 11
+[08-Jun-2022 09:23:13 UTC] PHP Fatal error:  require(): Failed opening required 'views/admin/editpetmascota.php' (include_path='.:/usr/share/pear:/usr/share/php') in /storage/ssd3/195/18888195/public_html/libs/view.php on line 11
+[08-Jun-2022 09:24:34 UTC] inicio de aplicacion web
+[08-Jun-2022 09:24:34 UTC] SessionController::validateSession()
+[08-Jun-2022 09:24:34 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:24:34 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:24:34 UTC] 2
+[08-Jun-2022 09:24:34 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:24:34 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:24:34 UTC] 2
+[08-Jun-2022 09:24:34 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:24:34 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:24:34 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:24:35 UTC] mascotas controller
+[08-Jun-2022 09:24:35 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:24:35 UTC] PHP Warning:  require(views/admin/edminpetedit.php): failed to open stream: No such file or directory in /storage/ssd3/195/18888195/public_html/libs/view.php on line 11
+[08-Jun-2022 09:24:35 UTC] PHP Fatal error:  require(): Failed opening required 'views/admin/edminpetedit.php' (include_path='.:/usr/share/pear:/usr/share/php') in /storage/ssd3/195/18888195/public_html/libs/view.php on line 11
+[08-Jun-2022 09:25:36 UTC] inicio de aplicacion web
+[08-Jun-2022 09:25:36 UTC] SessionController::validateSession()
+[08-Jun-2022 09:25:36 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:25:36 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:25:36 UTC] 2
+[08-Jun-2022 09:25:36 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:25:36 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:25:36 UTC] 2
+[08-Jun-2022 09:25:36 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:25:36 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:25:36 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:25:36 UTC] mascotas controller
+[08-Jun-2022 09:25:36 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:25:39 UTC] inicio de aplicacion web
+[08-Jun-2022 09:25:39 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:25:39 UTC] renderizando 404
+[08-Jun-2022 09:34:53 UTC] inicio de aplicacion web
+[08-Jun-2022 09:34:53 UTC] SessionController::validateSession()
+[08-Jun-2022 09:34:53 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:34:53 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:34:53 UTC] 2
+[08-Jun-2022 09:34:53 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:34:53 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:34:53 UTC] 2
+[08-Jun-2022 09:34:53 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:34:53 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:34:53 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:34:53 UTC] mascotas controller
+[08-Jun-2022 09:34:53 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:34:54 UTC] inicio de aplicacion web
+[08-Jun-2022 09:34:55 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:34:55 UTC] renderizando 404
+[08-Jun-2022 09:36:15 UTC] inicio de aplicacion web
+[08-Jun-2022 09:36:15 UTC] SessionController::validateSession()
+[08-Jun-2022 09:36:15 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:36:15 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:36:15 UTC] 2
+[08-Jun-2022 09:36:15 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:36:15 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:36:15 UTC] 2
+[08-Jun-2022 09:36:15 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:36:15 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:36:15 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:36:15 UTC] mascotas controller
+[08-Jun-2022 09:36:15 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:36:17 UTC] inicio de aplicacion web
+[08-Jun-2022 09:36:17 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:36:17 UTC] renderizando 404
+[08-Jun-2022 09:36:17 UTC] inicio de aplicacion web
+[08-Jun-2022 09:36:17 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:36:17 UTC] renderizando 404
+[08-Jun-2022 09:37:26 UTC] inicio de aplicacion web
+[08-Jun-2022 09:37:26 UTC] SessionController::validateSession()
+[08-Jun-2022 09:37:26 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:37:26 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:37:26 UTC] 2
+[08-Jun-2022 09:37:26 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:37:26 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:37:26 UTC] 2
+[08-Jun-2022 09:37:26 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:37:26 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:37:26 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:37:26 UTC] mascotas controller
+[08-Jun-2022 09:37:26 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:37:30 UTC] inicio de aplicacion web
+[08-Jun-2022 09:37:30 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:37:30 UTC] renderizando 404
+[08-Jun-2022 09:37:30 UTC] inicio de aplicacion web
+[08-Jun-2022 09:37:30 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:37:30 UTC] renderizando 404
+[08-Jun-2022 09:38:11 UTC] inicio de aplicacion web
+[08-Jun-2022 09:38:11 UTC] SessionController::validateSession()
+[08-Jun-2022 09:38:11 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:38:11 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:38:11 UTC] 2
+[08-Jun-2022 09:38:11 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:38:11 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:38:11 UTC] 2
+[08-Jun-2022 09:38:11 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:38:11 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:38:11 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:38:11 UTC] mascotas controller
+[08-Jun-2022 09:38:11 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:38:14 UTC] inicio de aplicacion web
+[08-Jun-2022 09:38:14 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:38:14 UTC] renderizando 404
+[08-Jun-2022 09:40:49 UTC] inicio de aplicacion web
+[08-Jun-2022 09:40:49 UTC] SessionController::validateSession()
+[08-Jun-2022 09:40:49 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:40:49 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:40:49 UTC] 2
+[08-Jun-2022 09:40:49 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:40:49 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:40:49 UTC] 2
+[08-Jun-2022 09:40:49 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:40:49 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:40:49 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:40:49 UTC] mascotas controller
+[08-Jun-2022 09:40:49 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:40:53 UTC] inicio de aplicacion web
+[08-Jun-2022 09:40:53 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:40:53 UTC] renderizando 404
+[08-Jun-2022 09:43:24 UTC] inicio de aplicacion web
+[08-Jun-2022 09:43:24 UTC] SessionController::validateSession()
+[08-Jun-2022 09:43:24 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:43:24 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:43:24 UTC] 2
+[08-Jun-2022 09:43:24 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:43:24 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 09:43:24 UTC] 2
+[08-Jun-2022 09:43:24 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 09:43:24 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:43:24 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:43:24 UTC] mascotas controller
+[08-Jun-2022 09:43:24 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:43:28 UTC] inicio de aplicacion web
+[08-Jun-2022 09:43:28 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:43:28 UTC] renderizando 404
+[08-Jun-2022 09:46:07 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:07 UTC] SessionController::validateSession()
+[08-Jun-2022 09:46:07 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:07 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:46:07 UTC] 2
+[08-Jun-2022 09:46:07 UTC] sessionController::getCurrentPage(): actualLink =>/home, url => home
+[08-Jun-2022 09:46:07 UTC] sessionController::isPublic(): currentURL => home
+[08-Jun-2022 09:46:07 UTC] 2
+[08-Jun-2022 09:46:07 UTC] sessionController::getCurrentPage(): actualLink =>/home, url => home
+[08-Jun-2022 09:46:07 UTC] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[08-Jun-2022 09:46:07 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:07 UTC] admin
+[08-Jun-2022 09:46:07 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:46:07 UTC] carga index de home
+[08-Jun-2022 09:46:08 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:08 UTC] SessionController::validateSession()
+[08-Jun-2022 09:46:08 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:08 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:46:08 UTC] 2
+[08-Jun-2022 09:46:08 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 09:46:08 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 09:46:08 UTC] 2
+[08-Jun-2022 09:46:08 UTC] sessionController::getCurrentPage(): actualLink =>/admin, url => admin
+[08-Jun-2022 09:46:08 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:46:08 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:08 UTC] admin
+[08-Jun-2022 09:46:08 UTC] home::contruc, entro al controlador
+[08-Jun-2022 09:46:08 UTC] carga index de admin
+[08-Jun-2022 09:46:08 UTC] admin
+[08-Jun-2022 09:46:08 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:08 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:08 UTC] renderizando 404
+[08-Jun-2022 09:46:09 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:09 UTC] SessionController::validateSession()
+[08-Jun-2022 09:46:09 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:09 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:46:09 UTC] 2
+[08-Jun-2022 09:46:09 UTC] sessionController::getCurrentPage(): actualLink =>/adminuser, url => adminuser
+[08-Jun-2022 09:46:09 UTC] sessionController::isPublic(): currentURL => adminuser
+[08-Jun-2022 09:46:09 UTC] 2
+[08-Jun-2022 09:46:09 UTC] sessionController::getCurrentPage(): actualLink =>/adminuser, url => adminuser
+[08-Jun-2022 09:46:09 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:46:09 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:09 UTC] admin
+[08-Jun-2022 09:46:10 UTC] adminuser::contruc, entro al controlador
+[08-Jun-2022 09:46:10 UTC] carga index de adminuser
+[08-Jun-2022 09:46:10 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:10 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:10 UTC] renderizando 404
+[08-Jun-2022 09:46:10 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:10 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:10 UTC] renderizando 404
+[08-Jun-2022 09:46:12 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:12 UTC] SessionController::validateSession()
+[08-Jun-2022 09:46:12 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:12 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:46:12 UTC] 2
+[08-Jun-2022 09:46:12 UTC] sessionController::getCurrentPage(): actualLink =>/adminuseredit?id=1, url => adminuseredit?id=1
+[08-Jun-2022 09:46:12 UTC] sessionController::isPublic(): currentURL => adminuseredit?id=1
+[08-Jun-2022 09:46:12 UTC] 2
+[08-Jun-2022 09:46:12 UTC] sessionController::getCurrentPage(): actualLink =>/adminuseredit?id=1, url => adminuseredit?id=1
+[08-Jun-2022 09:46:12 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:46:12 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:12 UTC] admin
+[08-Jun-2022 09:46:12 UTC] admin
+[08-Jun-2022 09:46:12 UTC] adminuseredit::contruc, entro al controlador
+[08-Jun-2022 09:46:12 UTC] carga index de adminuser
+[08-Jun-2022 09:46:12 UTC] PHP Notice:  Undefined index: numeroM in /storage/ssd3/195/18888195/public_html/views/admin/adminuseredit.php on line 3
+[08-Jun-2022 09:46:13 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:13 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:13 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:13 UTC] renderizando 404
+[08-Jun-2022 09:46:13 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:13 UTC] renderizando 404
+[08-Jun-2022 09:46:13 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:13 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:13 UTC] renderizando 404
+[08-Jun-2022 09:46:19 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:19 UTC] SessionController::validateSession()
+[08-Jun-2022 09:46:19 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:19 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:46:19 UTC] 2
+[08-Jun-2022 09:46:19 UTC] sessionController::getCurrentPage(): actualLink =>/adminuser, url => adminuser
+[08-Jun-2022 09:46:19 UTC] sessionController::isPublic(): currentURL => adminuser
+[08-Jun-2022 09:46:19 UTC] 2
+[08-Jun-2022 09:46:19 UTC] sessionController::getCurrentPage(): actualLink =>/adminuser, url => adminuser
+[08-Jun-2022 09:46:19 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:46:19 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:46:19 UTC] admin
+[08-Jun-2022 09:46:19 UTC] adminuser::contruc, entro al controlador
+[08-Jun-2022 09:46:19 UTC] carga index de adminuser
+[08-Jun-2022 09:46:19 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:19 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:19 UTC] renderizando 404
+[08-Jun-2022 09:46:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:46:20 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:46:20 UTC] renderizando 404
+[08-Jun-2022 09:49:02 UTC] inicio de aplicacion web
+[08-Jun-2022 09:49:02 UTC] SessionController::validateSession()
+[08-Jun-2022 09:49:02 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:49:02 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:49:02 UTC] 2
+[08-Jun-2022 09:49:02 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:49:02 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 09:49:02 UTC] 2
+[08-Jun-2022 09:49:02 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 09:49:02 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:49:02 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:49:02 UTC] admin
+[08-Jun-2022 09:49:02 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 09:49:02 UTC] carga index de adminmascota
+[08-Jun-2022 09:49:02 UTC] inicio de aplicacion web
+[08-Jun-2022 09:49:02 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:49:02 UTC] renderizando 404
+[08-Jun-2022 09:49:05 UTC] inicio de aplicacion web
+[08-Jun-2022 09:49:05 UTC] SessionController::validateSession()
+[08-Jun-2022 09:49:05 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:49:05 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:49:05 UTC] 2
+[08-Jun-2022 09:49:05 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 09:49:05 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=1
+[08-Jun-2022 09:49:05 UTC] 2
+[08-Jun-2022 09:49:05 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 09:49:05 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:49:05 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:49:05 UTC] mascotas controller
+[08-Jun-2022 09:49:05 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:49:05 UTC] inicio de aplicacion web
+[08-Jun-2022 09:49:05 UTC] inicio de aplicacion web
+[08-Jun-2022 09:49:05 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:49:05 UTC] renderizando 404
+[08-Jun-2022 09:49:05 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:49:05 UTC] renderizando 404
+[08-Jun-2022 09:49:05 UTC] inicio de aplicacion web
+[08-Jun-2022 09:49:05 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:49:05 UTC] renderizando 404
+[08-Jun-2022 09:56:44 UTC] inicio de aplicacion web
+[08-Jun-2022 09:56:44 UTC] SessionController::validateSession()
+[08-Jun-2022 09:56:44 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:56:44 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 09:56:44 UTC] 2
+[08-Jun-2022 09:56:44 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 09:56:44 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=1
+[08-Jun-2022 09:56:44 UTC] 2
+[08-Jun-2022 09:56:44 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 09:56:44 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 09:56:44 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 09:56:44 UTC] mascotas controller
+[08-Jun-2022 09:56:44 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 09:56:44 UTC] inicio de aplicacion web
+[08-Jun-2022 09:56:44 UTC] inicio de aplicacion web
+[08-Jun-2022 09:56:44 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:56:44 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:56:44 UTC] renderizando 404
+[08-Jun-2022 09:56:44 UTC] renderizando 404
+[08-Jun-2022 09:56:45 UTC] inicio de aplicacion web
+[08-Jun-2022 09:56:45 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:56:45 UTC] renderizando 404
+[08-Jun-2022 09:57:06 UTC] inicio de aplicacion web
+[08-Jun-2022 09:57:06 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:57:06 UTC] renderizando 404
+[08-Jun-2022 09:57:06 UTC] inicio de aplicacion web
+[08-Jun-2022 09:57:06 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:57:06 UTC] renderizando 404
+[08-Jun-2022 09:57:06 UTC] inicio de aplicacion web
+[08-Jun-2022 09:57:06 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:57:06 UTC] renderizando 404
+[08-Jun-2022 09:59:20 UTC] inicio de aplicacion web
+[08-Jun-2022 09:59:20 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 09:59:20 UTC] renderizando 404
+[08-Jun-2022 10:03:08 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:08 UTC] SessionController::validateSession()
+[08-Jun-2022 10:03:08 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:08 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:03:08 UTC] 2
+[08-Jun-2022 10:03:08 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 10:03:08 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=1
+[08-Jun-2022 10:03:08 UTC] 2
+[08-Jun-2022 10:03:08 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 10:03:08 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:03:08 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:08 UTC] mascotas controller
+[08-Jun-2022 10:03:08 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 10:03:08 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:08 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:03:08 UTC] renderizando 404
+[08-Jun-2022 10:03:08 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:08 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:03:08 UTC] renderizando 404
+[08-Jun-2022 10:03:08 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:08 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:03:08 UTC] renderizando 404
+[08-Jun-2022 10:03:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:14 UTC] SessionController::validateSession()
+[08-Jun-2022 10:03:14 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:14 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:03:14 UTC] 3
+[08-Jun-2022 10:03:14 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar, url => adminpetedit
+[08-Jun-2022 10:03:14 UTC] sessionController::isPublic(): currentURL => adminpetedit
+[08-Jun-2022 10:03:14 UTC] 3
+[08-Jun-2022 10:03:14 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar, url => adminpetedit
+[08-Jun-2022 10:03:14 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:03:14 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:14 UTC] PHP Notice:  Undefined index: id in /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php on line 81
+[08-Jun-2022 10:03:14 UTC] 
+[08-Jun-2022 10:03:14 UTC] eliminada
+[08-Jun-2022 10:03:14 UTC] 3
+[08-Jun-2022 10:03:14 UTC] 5
+[08-Jun-2022 10:03:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:14 UTC] SessionController::validateSession()
+[08-Jun-2022 10:03:14 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:14 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:03:14 UTC] 2
+[08-Jun-2022 10:03:14 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:03:14 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 10:03:14 UTC] 2
+[08-Jun-2022 10:03:14 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:03:14 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:03:14 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:14 UTC] admin
+[08-Jun-2022 10:03:14 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 10:03:14 UTC] carga index de adminmascota
+[08-Jun-2022 10:03:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:14 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:03:14 UTC] renderizando 404
+[08-Jun-2022 10:03:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:26 UTC] SessionController::validateSession()
+[08-Jun-2022 10:03:26 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:26 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:03:26 UTC] 2
+[08-Jun-2022 10:03:26 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:03:26 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 10:03:26 UTC] 2
+[08-Jun-2022 10:03:26 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:03:26 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:03:26 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:03:26 UTC] admin
+[08-Jun-2022 10:03:26 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 10:03:26 UTC] carga index de adminmascota
+[08-Jun-2022 10:03:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:03:26 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:03:26 UTC] renderizando 404
+[08-Jun-2022 10:08:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:08:26 UTC] SessionController::validateSession()
+[08-Jun-2022 10:08:26 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:08:26 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:08:26 UTC] 2
+[08-Jun-2022 10:08:26 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 10:08:26 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=1
+[08-Jun-2022 10:08:26 UTC] 2
+[08-Jun-2022 10:08:26 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=1, url => adminpetedit?id=1
+[08-Jun-2022 10:08:26 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:08:26 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:08:26 UTC] mascotas controller
+[08-Jun-2022 10:08:26 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 10:08:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:08:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:08:26 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:08:26 UTC] renderizando 404
+[08-Jun-2022 10:08:26 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:08:26 UTC] renderizando 404
+[08-Jun-2022 10:08:27 UTC] inicio de aplicacion web
+[08-Jun-2022 10:08:27 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:08:27 UTC] renderizando 404
+[08-Jun-2022 10:08:33 UTC] inicio de aplicacion web
+[08-Jun-2022 10:08:33 UTC] SessionController::validateSession()
+[08-Jun-2022 10:08:33 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:08:33 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:08:33 UTC] 3
+[08-Jun-2022 10:08:33 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar, url => adminpetedit
+[08-Jun-2022 10:08:33 UTC] sessionController::isPublic(): currentURL => adminpetedit
+[08-Jun-2022 10:08:33 UTC] 3
+[08-Jun-2022 10:08:33 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar, url => adminpetedit
+[08-Jun-2022 10:08:33 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:08:33 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:08:33 UTC] PHP Notice:  Undefined index: id in /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php on line 81
+[08-Jun-2022 10:08:33 UTC] 
+[08-Jun-2022 10:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PetsModel::idMascota() in /storage/ssd3/195/18888195/public_html/models/PetsModel.php:121
+Stack trace:
+#0 /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php(82): PetsModel->delete()
+#1 /storage/ssd3/195/18888195/public_html/libs/app.php(57): adminpetedit->eliminar()
+#2 /storage/ssd3/195/18888195/public_html/index.php(22): App->__construct()
+#3 {main}
+  thrown in /storage/ssd3/195/18888195/public_html/models/PetsModel.php on line 121
+[08-Jun-2022 10:09:32 UTC] inicio de aplicacion web
+[08-Jun-2022 10:09:32 UTC] SessionController::validateSession()
+[08-Jun-2022 10:09:32 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:09:32 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:09:32 UTC] 3
+[08-Jun-2022 10:09:32 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar, url => adminpetedit
+[08-Jun-2022 10:09:32 UTC] sessionController::isPublic(): currentURL => adminpetedit
+[08-Jun-2022 10:09:32 UTC] 3
+[08-Jun-2022 10:09:32 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar, url => adminpetedit
+[08-Jun-2022 10:09:32 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:09:32 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:09:32 UTC] PHP Notice:  Undefined index: id in /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php on line 81
+[08-Jun-2022 10:09:32 UTC] 
+[08-Jun-2022 10:09:32 UTC] 0
+[08-Jun-2022 10:09:32 UTC] 0
+[08-Jun-2022 10:09:33 UTC] eliminada
+[08-Jun-2022 10:09:33 UTC] 3
+[08-Jun-2022 10:09:33 UTC] 5
+[08-Jun-2022 10:09:33 UTC] inicio de aplicacion web
+[08-Jun-2022 10:09:33 UTC] SessionController::validateSession()
+[08-Jun-2022 10:09:33 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:09:33 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:09:33 UTC] 2
+[08-Jun-2022 10:09:33 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:09:33 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 10:09:33 UTC] 2
+[08-Jun-2022 10:09:33 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:09:33 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:09:33 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:09:33 UTC] admin
+[08-Jun-2022 10:09:33 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 10:09:33 UTC] carga index de adminmascota
+[08-Jun-2022 10:09:33 UTC] inicio de aplicacion web
+[08-Jun-2022 10:09:33 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:09:33 UTC] renderizando 404
+[08-Jun-2022 10:14:13 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:13 UTC] SessionController::validateSession()
+[08-Jun-2022 10:14:13 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:14:13 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:14:13 UTC] 2
+[08-Jun-2022 10:14:13 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:14:13 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 10:14:13 UTC] 2
+[08-Jun-2022 10:14:13 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:14:13 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:14:13 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:14:13 UTC] admin
+[08-Jun-2022 10:14:13 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 10:14:13 UTC] carga index de adminmascota
+[08-Jun-2022 10:14:13 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:13 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:13 UTC] renderizando 404
+[08-Jun-2022 10:14:16 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:16 UTC] SessionController::validateSession()
+[08-Jun-2022 10:14:16 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:14:16 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:14:16 UTC] 2
+[08-Jun-2022 10:14:16 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 10:14:16 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 10:14:16 UTC] 2
+[08-Jun-2022 10:14:16 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 10:14:16 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:14:16 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:14:16 UTC] mascotas controller
+[08-Jun-2022 10:14:16 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 10:14:17 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:17 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:17 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:17 UTC] renderizando 404
+[08-Jun-2022 10:14:17 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:17 UTC] renderizando 404
+[08-Jun-2022 10:14:19 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:19 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:19 UTC] renderizando 404
+[08-Jun-2022 10:14:32 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:32 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:32 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:32 UTC] renderizando 404
+[08-Jun-2022 10:14:32 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:32 UTC] renderizando 404
+[08-Jun-2022 10:14:32 UTC] inicio de aplicacion web
+[08-Jun-2022 10:14:32 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:14:32 UTC] renderizando 404
+[08-Jun-2022 10:16:00 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:00 UTC] SessionController::validateSession()
+[08-Jun-2022 10:16:00 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:16:00 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:16:00 UTC] 2
+[08-Jun-2022 10:16:00 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 10:16:00 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 10:16:00 UTC] 2
+[08-Jun-2022 10:16:00 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 10:16:00 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:16:00 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:16:00 UTC] mascotas controller
+[08-Jun-2022 10:16:00 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 10:16:00 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:00 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:00 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:16:00 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:16:00 UTC] renderizando 404
+[08-Jun-2022 10:16:00 UTC] renderizando 404
+[08-Jun-2022 10:16:04 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:04 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:16:04 UTC] renderizando 404
+[08-Jun-2022 10:16:04 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:04 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:16:04 UTC] renderizando 404
+[08-Jun-2022 10:16:16 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:16 UTC] SessionController::validateSession()
+[08-Jun-2022 10:16:16 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:16:16 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:16:16 UTC] 3
+[08-Jun-2022 10:16:16 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar?id=26, url => adminpetedit
+[08-Jun-2022 10:16:16 UTC] sessionController::isPublic(): currentURL => adminpetedit
+[08-Jun-2022 10:16:16 UTC] 3
+[08-Jun-2022 10:16:16 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar?id=26, url => adminpetedit
+[08-Jun-2022 10:16:16 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:16:16 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:16:16 UTC] mascotas controller
+[08-Jun-2022 10:16:16 UTC] PHP Notice:  Undefined index: idmascota in /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php on line 82
+[08-Jun-2022 10:16:16 UTC] PHP Warning:  error_log() expects at least 1 parameter, 0 given in /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php on line 83
+[08-Jun-2022 10:16:16 UTC] 
+[08-Jun-2022 10:16:16 UTC] 
+[08-Jun-2022 10:16:16 UTC] eliminada
+[08-Jun-2022 10:16:16 UTC] 3
+[08-Jun-2022 10:16:16 UTC] 5
+[08-Jun-2022 10:16:16 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:16 UTC] SessionController::validateSession()
+[08-Jun-2022 10:16:16 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:16:16 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:16:16 UTC] 2
+[08-Jun-2022 10:16:16 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:16:16 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 10:16:16 UTC] 2
+[08-Jun-2022 10:16:16 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:16:16 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:16:16 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:16:16 UTC] admin
+[08-Jun-2022 10:16:16 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 10:16:16 UTC] carga index de adminmascota
+[08-Jun-2022 10:16:17 UTC] inicio de aplicacion web
+[08-Jun-2022 10:16:17 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:16:17 UTC] renderizando 404
+[08-Jun-2022 10:17:10 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:10 UTC] SessionController::validateSession()
+[08-Jun-2022 10:17:10 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:10 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:17:10 UTC] 2
+[08-Jun-2022 10:17:10 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 10:17:10 UTC] sessionController::isPublic(): currentURL => adminpetedit?id=26
+[08-Jun-2022 10:17:10 UTC] 2
+[08-Jun-2022 10:17:10 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit?id=26, url => adminpetedit?id=26
+[08-Jun-2022 10:17:10 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:17:10 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:10 UTC] mascotas controller
+[08-Jun-2022 10:17:10 UTC] carga de vista aditpetmascotamascotas
+[08-Jun-2022 10:17:10 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:10 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:10 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:17:10 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:17:10 UTC] renderizando 404
+[08-Jun-2022 10:17:10 UTC] renderizando 404
+[08-Jun-2022 10:17:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:14 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:17:14 UTC] renderizando 404
+[08-Jun-2022 10:17:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:14 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:17:14 UTC] renderizando 404
+[08-Jun-2022 10:17:23 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:23 UTC] SessionController::validateSession()
+[08-Jun-2022 10:17:23 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:23 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:17:23 UTC] 3
+[08-Jun-2022 10:17:23 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar?id=26, url => adminpetedit
+[08-Jun-2022 10:17:23 UTC] sessionController::isPublic(): currentURL => adminpetedit
+[08-Jun-2022 10:17:23 UTC] 3
+[08-Jun-2022 10:17:23 UTC] sessionController::getCurrentPage(): actualLink =>/adminpetedit/eliminar?id=26, url => adminpetedit
+[08-Jun-2022 10:17:23 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:17:23 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:24 UTC] mascotas controller
+[08-Jun-2022 10:17:24 UTC] PHP Warning:  error_log() expects at least 1 parameter, 0 given in /storage/ssd3/195/18888195/public_html/controllers/adminpetedit.php on line 83
+[08-Jun-2022 10:17:24 UTC] 26
+[08-Jun-2022 10:17:24 UTC] 26
+[08-Jun-2022 10:17:24 UTC] eliminada
+[08-Jun-2022 10:17:24 UTC] 3
+[08-Jun-2022 10:17:24 UTC] 5
+[08-Jun-2022 10:17:24 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:24 UTC] SessionController::validateSession()
+[08-Jun-2022 10:17:24 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:24 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:17:24 UTC] 2
+[08-Jun-2022 10:17:24 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:17:24 UTC] sessionController::isPublic(): currentURL => adminmascotas
+[08-Jun-2022 10:17:24 UTC] 2
+[08-Jun-2022 10:17:24 UTC] sessionController::getCurrentPage(): actualLink =>/adminmascotas, url => adminmascotas
+[08-Jun-2022 10:17:24 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:17:24 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:24 UTC] admin
+[08-Jun-2022 10:17:24 UTC] adminmascota::contruc, entro al controlador
+[08-Jun-2022 10:17:24 UTC] carga index de adminmascota
+[08-Jun-2022 10:17:24 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:24 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:17:24 UTC] renderizando 404
+[08-Jun-2022 10:17:55 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:55 UTC] SessionController::validateSession()
+[08-Jun-2022 10:17:55 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:55 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:17:55 UTC] 2
+[08-Jun-2022 10:17:55 UTC] sessionController::getCurrentPage(): actualLink =>/adminuser, url => adminuser
+[08-Jun-2022 10:17:55 UTC] sessionController::isPublic(): currentURL => adminuser
+[08-Jun-2022 10:17:55 UTC] 2
+[08-Jun-2022 10:17:55 UTC] sessionController::getCurrentPage(): actualLink =>/adminuser, url => adminuser
+[08-Jun-2022 10:17:55 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:17:55 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:17:55 UTC] admin
+[08-Jun-2022 10:17:56 UTC] adminuser::contruc, entro al controlador
+[08-Jun-2022 10:17:56 UTC] carga index de adminuser
+[08-Jun-2022 10:17:56 UTC] inicio de aplicacion web
+[08-Jun-2022 10:17:56 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:17:56 UTC] renderizando 404
+[08-Jun-2022 10:23:19 UTC] inicio de aplicacion web
+[08-Jun-2022 10:23:19 UTC] SessionController::validateSession()
+[08-Jun-2022 10:23:19 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:23:19 UTC] sessionController::validateSession(): username:admin - role: admin
+[08-Jun-2022 10:23:19 UTC] 3
+[08-Jun-2022 10:23:19 UTC] sessionController::getCurrentPage(): actualLink =>/admin/salir, url => admin
+[08-Jun-2022 10:23:19 UTC] sessionController::isPublic(): currentURL => admin
+[08-Jun-2022 10:23:19 UTC] 3
+[08-Jun-2022 10:23:19 UTC] sessionController::getCurrentPage(): actualLink =>/admin/salir, url => admin
+[08-Jun-2022 10:23:19 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-Jun-2022 10:23:19 UTC] sessionController::getUserSessionData(): admin
+[08-Jun-2022 10:23:19 UTC] admin
+[08-Jun-2022 10:23:19 UTC] home::contruc, entro al controlador
+[08-Jun-2022 10:23:19 UTC] 3
+[08-Jun-2022 10:23:19 UTC] 5
+[08-Jun-2022 10:23:19 UTC] inicio de aplicacion web
+[08-Jun-2022 10:23:19 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 10:23:19 UTC] SessionController::validateSession()
+[08-Jun-2022 10:23:19 UTC] 2
+[08-Jun-2022 10:23:19 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 10:23:19 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 10:23:19 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:23:19 UTC] login::contruc, entro al controlador
+[08-Jun-2022 10:23:19 UTC] carga index de login
+[08-Jun-2022 10:23:20 UTC] inicio de aplicacion web
+[08-Jun-2022 10:23:20 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:23:20 UTC] renderizando 404
+[08-Jun-2022 10:23:22 UTC] inicio de aplicacion web
+[08-Jun-2022 10:23:22 UTC] registro controller
+[08-Jun-2022 10:23:22 UTC] SessionController::validateSession()
+[08-Jun-2022 10:23:22 UTC] 2
+[08-Jun-2022 10:23:22 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:23:22 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:23:22 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:23:22 UTC] carga de vista registro
+[08-Jun-2022 10:23:22 UTC] inicio de aplicacion web
+[08-Jun-2022 10:23:22 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:23:22 UTC] renderizando 404
+[08-Jun-2022 10:24:49 UTC] inicio de aplicacion web
+[08-Jun-2022 10:24:49 UTC] registro controller
+[08-Jun-2022 10:24:49 UTC] SessionController::validateSession()
+[08-Jun-2022 10:24:49 UTC] 2
+[08-Jun-2022 10:24:49 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:24:49 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:24:49 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:24:49 UTC] carga de vista registro
+[08-Jun-2022 10:24:49 UTC] inicio de aplicacion web
+[08-Jun-2022 10:24:49 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:24:49 UTC] renderizando 404
+[08-Jun-2022 10:29:33 UTC] inicio de aplicacion web
+[08-Jun-2022 10:29:33 UTC] registro controller
+[08-Jun-2022 10:29:33 UTC] SessionController::validateSession()
+[08-Jun-2022 10:29:33 UTC] 2
+[08-Jun-2022 10:29:33 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:29:33 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:29:33 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:29:33 UTC] carga de vista registro
+[08-Jun-2022 10:29:33 UTC] inicio de aplicacion web
+[08-Jun-2022 10:29:33 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:29:33 UTC] renderizando 404
+[08-Jun-2022 10:31:18 UTC] inicio de aplicacion web
+[08-Jun-2022 10:31:18 UTC] registro controller
+[08-Jun-2022 10:31:18 UTC] SessionController::validateSession()
+[08-Jun-2022 10:31:18 UTC] 2
+[08-Jun-2022 10:31:18 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:31:18 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:31:18 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:31:18 UTC] carga de vista registro
+[08-Jun-2022 10:31:18 UTC] inicio de aplicacion web
+[08-Jun-2022 10:31:18 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:31:18 UTC] renderizando 404
+[08-Jun-2022 10:32:41 UTC] inicio de aplicacion web
+[08-Jun-2022 10:32:41 UTC] registro controller
+[08-Jun-2022 10:32:41 UTC] SessionController::validateSession()
+[08-Jun-2022 10:32:41 UTC] 2
+[08-Jun-2022 10:32:41 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:32:41 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:32:41 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:32:41 UTC] carga de vista registro
+[08-Jun-2022 10:32:42 UTC] inicio de aplicacion web
+[08-Jun-2022 10:32:42 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:32:42 UTC] renderizando 404
+[08-Jun-2022 10:32:42 UTC] inicio de aplicacion web
+[08-Jun-2022 10:32:42 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:32:42 UTC] renderizando 404
+[08-Jun-2022 10:34:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:34:14 UTC] registro controller
+[08-Jun-2022 10:34:14 UTC] SessionController::validateSession()
+[08-Jun-2022 10:34:14 UTC] 2
+[08-Jun-2022 10:34:14 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:34:14 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:34:14 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:34:14 UTC] carga de vista registro
+[08-Jun-2022 10:34:14 UTC] inicio de aplicacion web
+[08-Jun-2022 10:34:14 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:34:14 UTC] renderizando 404
+[08-Jun-2022 10:36:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:26 UTC] registro controller
+[08-Jun-2022 10:36:26 UTC] SessionController::validateSession()
+[08-Jun-2022 10:36:26 UTC] 2
+[08-Jun-2022 10:36:26 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:36:26 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:36:26 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:36:26 UTC] carga de vista registro
+[08-Jun-2022 10:36:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:26 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:36:26 UTC] renderizando 404
+[08-Jun-2022 10:36:30 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:30 UTC] registro controller
+[08-Jun-2022 10:36:30 UTC] SessionController::validateSession()
+[08-Jun-2022 10:36:30 UTC] 2
+[08-Jun-2022 10:36:30 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:36:30 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:36:30 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:36:30 UTC] carga de vista registro
+[08-Jun-2022 10:36:30 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:30 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:36:30 UTC] renderizando 404
+[08-Jun-2022 10:36:32 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:32 UTC] registro controller
+[08-Jun-2022 10:36:32 UTC] SessionController::validateSession()
+[08-Jun-2022 10:36:32 UTC] 2
+[08-Jun-2022 10:36:32 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:36:32 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:36:32 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:36:32 UTC] carga de vista registro
+[08-Jun-2022 10:36:32 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:32 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:36:32 UTC] renderizando 404
+[08-Jun-2022 10:36:33 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:33 UTC] registro controller
+[08-Jun-2022 10:36:33 UTC] SessionController::validateSession()
+[08-Jun-2022 10:36:33 UTC] 2
+[08-Jun-2022 10:36:33 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:36:33 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:36:33 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:36:33 UTC] carga de vista registro
+[08-Jun-2022 10:36:34 UTC] inicio de aplicacion web
+[08-Jun-2022 10:36:34 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:36:34 UTC] renderizando 404
+[08-Jun-2022 10:37:06 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:06 UTC] registro controller
+[08-Jun-2022 10:37:06 UTC] SessionController::validateSession()
+[08-Jun-2022 10:37:06 UTC] 2
+[08-Jun-2022 10:37:06 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:37:06 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:37:06 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:37:06 UTC] carga de vista registro
+[08-Jun-2022 10:37:06 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:06 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:37:06 UTC] renderizando 404
+[08-Jun-2022 10:37:29 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:29 UTC] registro controller
+[08-Jun-2022 10:37:29 UTC] SessionController::validateSession()
+[08-Jun-2022 10:37:29 UTC] 2
+[08-Jun-2022 10:37:29 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:37:29 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:37:29 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:37:29 UTC] carga de vista registro
+[08-Jun-2022 10:37:29 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:29 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:37:29 UTC] renderizando 404
+[08-Jun-2022 10:37:31 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:31 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 10:37:31 UTC] SessionController::validateSession()
+[08-Jun-2022 10:37:31 UTC] 2
+[08-Jun-2022 10:37:31 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 10:37:31 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 10:37:31 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:37:31 UTC] login::contruc, entro al controlador
+[08-Jun-2022 10:37:31 UTC] carga index de login
+[08-Jun-2022 10:37:31 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:31 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:37:31 UTC] renderizando 404
+[08-Jun-2022 10:37:34 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:34 UTC] registro controller
+[08-Jun-2022 10:37:34 UTC] SessionController::validateSession()
+[08-Jun-2022 10:37:34 UTC] 2
+[08-Jun-2022 10:37:34 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:37:34 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:37:34 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:37:34 UTC] carga de vista registro
+[08-Jun-2022 10:37:34 UTC] inicio de aplicacion web
+[08-Jun-2022 10:37:34 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:37:34 UTC] renderizando 404
+[08-Jun-2022 10:38:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:38:26 UTC] registro controller
+[08-Jun-2022 10:38:26 UTC] SessionController::validateSession()
+[08-Jun-2022 10:38:26 UTC] 2
+[08-Jun-2022 10:38:26 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:38:26 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:38:26 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:38:26 UTC] carga de vista registro
+[08-Jun-2022 10:38:26 UTC] inicio de aplicacion web
+[08-Jun-2022 10:38:26 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:38:26 UTC] renderizando 404
+[08-Jun-2022 10:38:45 UTC] inicio de aplicacion web
+[08-Jun-2022 10:38:45 UTC] registro controller
+[08-Jun-2022 10:38:45 UTC] SessionController::validateSession()
+[08-Jun-2022 10:38:45 UTC] 2
+[08-Jun-2022 10:38:45 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:38:45 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:38:45 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:38:45 UTC] carga de vista registro
+[08-Jun-2022 10:38:45 UTC] inicio de aplicacion web
+[08-Jun-2022 10:38:45 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:38:45 UTC] renderizando 404
+[08-Jun-2022 10:39:23 UTC] inicio de aplicacion web
+[08-Jun-2022 10:39:23 UTC] registro controller
+[08-Jun-2022 10:39:23 UTC] SessionController::validateSession()
+[08-Jun-2022 10:39:23 UTC] 2
+[08-Jun-2022 10:39:23 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:39:23 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:39:23 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:39:23 UTC] carga de vista registro
+[08-Jun-2022 10:39:23 UTC] inicio de aplicacion web
+[08-Jun-2022 10:39:23 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:39:23 UTC] renderizando 404
+[08-Jun-2022 10:39:57 UTC] inicio de aplicacion web
+[08-Jun-2022 10:39:57 UTC] registro controller
+[08-Jun-2022 10:39:57 UTC] SessionController::validateSession()
+[08-Jun-2022 10:39:57 UTC] 2
+[08-Jun-2022 10:39:57 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:39:57 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:39:57 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:39:57 UTC] carga de vista registro
+[08-Jun-2022 10:39:57 UTC] inicio de aplicacion web
+[08-Jun-2022 10:39:57 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:39:57 UTC] renderizando 404
+[08-Jun-2022 10:46:44 UTC] inicio de aplicacion web
+[08-Jun-2022 10:46:44 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 10:46:44 UTC] SessionController::validateSession()
+[08-Jun-2022 10:46:44 UTC] 2
+[08-Jun-2022 10:46:44 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 10:46:44 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 10:46:44 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:46:44 UTC] login::contruc, entro al controlador
+[08-Jun-2022 10:46:44 UTC] carga index de login
+[08-Jun-2022 10:46:45 UTC] inicio de aplicacion web
+[08-Jun-2022 10:46:45 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:46:45 UTC] renderizando 404
+[08-Jun-2022 10:46:46 UTC] inicio de aplicacion web
+[08-Jun-2022 10:46:46 UTC] registro controller
+[08-Jun-2022 10:46:46 UTC] SessionController::validateSession()
+[08-Jun-2022 10:46:46 UTC] 2
+[08-Jun-2022 10:46:46 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:46:46 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:46:46 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:46:46 UTC] carga de vista registro
+[08-Jun-2022 10:46:46 UTC] inicio de aplicacion web
+[08-Jun-2022 10:46:46 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:46:46 UTC] renderizando 404
+[08-Jun-2022 10:47:12 UTC] inicio de aplicacion web
+[08-Jun-2022 10:47:12 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:47:12 UTC] renderizando 404
+[08-Jun-2022 10:47:13 UTC] inicio de aplicacion web
+[08-Jun-2022 10:47:13 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:47:13 UTC] renderizando 404
+[08-Jun-2022 10:48:12 UTC] inicio de aplicacion web
+[08-Jun-2022 10:48:12 UTC] registro controller
+[08-Jun-2022 10:48:12 UTC] SessionController::validateSession()
+[08-Jun-2022 10:48:12 UTC] 2
+[08-Jun-2022 10:48:12 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:48:12 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:48:12 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:48:12 UTC] carga de vista registro
+[08-Jun-2022 10:48:12 UTC] inicio de aplicacion web
+[08-Jun-2022 10:48:12 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:48:12 UTC] renderizando 404
+[08-Jun-2022 10:48:29 UTC] inicio de aplicacion web
+[08-Jun-2022 10:48:29 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:48:29 UTC] renderizando 404
+[08-Jun-2022 10:48:29 UTC] inicio de aplicacion web
+[08-Jun-2022 10:48:29 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:48:29 UTC] renderizando 404
+[08-Jun-2022 10:49:15 UTC] inicio de aplicacion web
+[08-Jun-2022 10:49:15 UTC] APP::contruc->no hay controlador
+[08-Jun-2022 10:49:15 UTC] SessionController::validateSession()
+[08-Jun-2022 10:49:15 UTC] 2
+[08-Jun-2022 10:49:15 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[08-Jun-2022 10:49:15 UTC] sessionController::isPublic(): currentURL => 
+[08-Jun-2022 10:49:15 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:49:15 UTC] login::contruc, entro al controlador
+[08-Jun-2022 10:49:15 UTC] carga index de login
+[08-Jun-2022 10:49:15 UTC] inicio de aplicacion web
+[08-Jun-2022 10:49:15 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:49:15 UTC] renderizando 404
+[08-Jun-2022 10:49:20 UTC] inicio de aplicacion web
+[08-Jun-2022 10:49:20 UTC] registro controller
+[08-Jun-2022 10:49:20 UTC] SessionController::validateSession()
+[08-Jun-2022 10:49:20 UTC] 2
+[08-Jun-2022 10:49:20 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:49:20 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:49:20 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:49:20 UTC] carga de vista registro
+[08-Jun-2022 10:49:20 UTC] inicio de aplicacion web
+[08-Jun-2022 10:49:20 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:49:20 UTC] renderizando 404
+[08-Jun-2022 10:49:52 UTC] inicio de aplicacion web
+[08-Jun-2022 10:49:52 UTC] registro controller
+[08-Jun-2022 10:49:52 UTC] SessionController::validateSession()
+[08-Jun-2022 10:49:52 UTC] 2
+[08-Jun-2022 10:49:52 UTC] sessionController::getCurrentPage(): actualLink =>/registro, url => registro
+[08-Jun-2022 10:49:52 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:49:52 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:49:52 UTC] carga de vista registro
+[08-Jun-2022 10:49:53 UTC] inicio de aplicacion web
+[08-Jun-2022 10:49:53 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:49:53 UTC] renderizando 404
+[08-Jun-2022 10:50:10 UTC] inicio de aplicacion web
+[08-Jun-2022 10:50:11 UTC] registro controller
+[08-Jun-2022 10:50:11 UTC] SessionController::validateSession()
+[08-Jun-2022 10:50:11 UTC] 3
+[08-Jun-2022 10:50:11 UTC] sessionController::getCurrentPage(): actualLink =>/registro/newUser, url => registro
+[08-Jun-2022 10:50:11 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:50:11 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:50:11 UTC] controllerbase::existpost->no existe el parametrocorreo
+[08-Jun-2022 10:50:11 UTC] 3
+[08-Jun-2022 10:50:11 UTC] 5
+[08-Jun-2022 10:50:11 UTC] inicio de aplicacion web
+[08-Jun-2022 10:50:11 UTC] registro controller
+[08-Jun-2022 10:50:11 UTC] SessionController::validateSession()
+[08-Jun-2022 10:50:11 UTC] 2
+[08-Jun-2022 10:50:11 UTC] sessionController::getCurrentPage(): actualLink =>/registro?error=1fdce6bbf47d6b26a9cd809ea1910222, url => registro?error=1fdce6bbf47d6b26a9cd809ea1910222
+[08-Jun-2022 10:50:11 UTC] sessionController::isPublic(): currentURL => registro?error=1fdce6bbf47d6b26a9cd809ea1910222
+[08-Jun-2022 10:50:11 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:50:11 UTC] carga de vista registro
+[08-Jun-2022 10:50:11 UTC] View::handleError() existsKey =>Hubo un error al intentar registrarte. Intenta de nuevo
+[08-Jun-2022 10:50:11 UTC] inicio de aplicacion web
+[08-Jun-2022 10:50:11 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:50:11 UTC] renderizando 404
+[08-Jun-2022 10:51:50 UTC] inicio de aplicacion web
+[08-Jun-2022 10:51:50 UTC] registro controller
+[08-Jun-2022 10:51:50 UTC] SessionController::validateSession()
+[08-Jun-2022 10:51:50 UTC] 3
+[08-Jun-2022 10:51:50 UTC] sessionController::getCurrentPage(): actualLink =>/registro/newUser, url => registro
+[08-Jun-2022 10:51:50 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:51:50 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:51:50 UTC] controllerbase::existpost->no existe el parametrocontrasena
+[08-Jun-2022 10:51:50 UTC] 3
+[08-Jun-2022 10:51:50 UTC] 5
+[08-Jun-2022 10:51:50 UTC] inicio de aplicacion web
+[08-Jun-2022 10:51:50 UTC] registro controller
+[08-Jun-2022 10:51:50 UTC] SessionController::validateSession()
+[08-Jun-2022 10:51:50 UTC] 2
+[08-Jun-2022 10:51:50 UTC] sessionController::getCurrentPage(): actualLink =>/registro?error=1fdce6bbf47d6b26a9cd809ea1910222, url => registro?error=1fdce6bbf47d6b26a9cd809ea1910222
+[08-Jun-2022 10:51:50 UTC] sessionController::isPublic(): currentURL => registro?error=1fdce6bbf47d6b26a9cd809ea1910222
+[08-Jun-2022 10:51:50 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:51:50 UTC] carga de vista registro
+[08-Jun-2022 10:51:50 UTC] View::handleError() existsKey =>Hubo un error al intentar registrarte. Intenta de nuevo
+[08-Jun-2022 10:51:50 UTC] inicio de aplicacion web
+[08-Jun-2022 10:51:50 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:51:50 UTC] renderizando 404
+[08-Jun-2022 10:52:53 UTC] inicio de aplicacion web
+[08-Jun-2022 10:52:53 UTC] registro controller
+[08-Jun-2022 10:52:53 UTC] SessionController::validateSession()
+[08-Jun-2022 10:52:53 UTC] 3
+[08-Jun-2022 10:52:53 UTC] sessionController::getCurrentPage(): actualLink =>/registro/newUser, url => registro
+[08-Jun-2022 10:52:53 UTC] sessionController::isPublic(): currentURL => registro
+[08-Jun-2022 10:52:53 UTC] SessionController::validateSession() public page
+[08-Jun-2022 10:52:53 UTC] 1
+[08-Jun-2022 10:52:53 UTC] maya
+[08-Jun-2022 10:52:53 UTC] $2y$10$Pzp2AxqqoTMjjE3OUkk/..kftYEmPa8HgyFFLSn3ndLqqthhN4W.u
+[08-Jun-2022 10:52:53 UTC] juan231@hotmail.com
+[08-Jun-2022 10:52:53 UTC] juan231@hotmail.com
+[08-Jun-2022 10:52:54 UTC] 3
+[08-Jun-2022 10:52:54 UTC] 5
+[08-Jun-2022 10:52:54 UTC] inicio de aplicacion web
+[08-Jun-2022 10:52:54 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:52:54 UTC] renderizando 404
+[08-Jun-2022 10:52:54 UTC] View::handleError() existsKey =>1
+[08-Jun-2022 10:52:54 UTC] inicio de aplicacion web
+[08-Jun-2022 10:52:54 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:52:54 UTC] renderizando 404
+[08-Jun-2022 10:55:59 UTC] inicio de aplicacion web
+[08-Jun-2022 10:55:59 UTC] Errores::contruc, inicio de errores
+[08-Jun-2022 10:55:59 UTC] renderizando 404

@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#cerrars{
+    position: relative;
+    left: 600px;
+}
+body{
+    font-family:'Montserrat', sans-serif ;
+    overflow-x: hidden;
+    
+}
+#menu li > a {
+font-size: 18px;
+font-weight: bold;
+color: #3f3f3f;
+}
+#menu form > button {
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.centrado{
+    position: relative;
+    left: 100px;
+}
+.centradom{
+    position: relative;
+    left: 50px;
+}
+/*===============SLIDE DE IMAGENES=================*/
+
+.carousel-inner{
+    
+    max-height: 39rem;
+    
+    
+}
+
+
+
+
+/*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
+
+@media (max-width:1200px){
+    #intro {
+        width:90% !important;
+        margin:auto;
+    }
+  
+    #local {
+        flex-wrap: wrap;
+        padding-top:30px;
+   }
+   .wrapper-local {
+    width:90%;
+    margin:auto;
+    padding-top:50px;    
+   }
+ 
+}
+/*=========================MEDIA QUERIES PANTALLA SM================================*/
+
+
+@media (max-width:768px) {
+
+    #intro{
+        width:90% !important;
+        margin:auto;
+    }
+
+    .wrapper-local {
+        width:90%;
+        margin:auto;
+        padding-top:50px;    
+    }
+}
+/*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
+
+@media (max-width: 576px) {
+    #servicios-fila-2 {
+        width:100% !important;
+    }
+    #servicios-fila-1 {
+        width:100% !important;
+    }
+
+    .icono-wrap{
+        flex-wrap:wrap !important;
+        justify-content: center !important;
+        text-align: center;
+    }
+}
+
+/*=========================footer================================*/
+footer {
+    background: #212529;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 10px;
+    color:#f3f3f3;
+    position: relative;
+    top: 20px;
+
+}
